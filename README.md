@@ -2,18 +2,16 @@
 🔴🟡🟢
 
 <br>
-<h1 align="center"><b>Hi , I'm Durvesh Danve </b><img src="https://giphy.com/gifs/theoffice-episode-12-the-office-tv-D2j3xOKq0O0qQ8BOVC" width="35"></h1>
-
-
-<br>
+<h1 align="center"><b>Hi , I'm Durvesh Danve </b><iframe src="https://giphy.com/embed/D2j3xOKq0O0qQ8BOVC" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theoffice-episode-12-the-office-tv-D2j3xOKq0O0qQ8BOVC">via GIPHY</a></p></h1>
+</div>
 
 <div>    
- 🧭 &nbsp;About Me
+ ## 🧭 &nbsp;About Me
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
 
-- 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 & 𝗧𝗲𝗰𝗵 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 
+- Software Engineer & Tech Enthusiast!
 - I Lift Weights & Binge-watch Shows on Netflix in my free time
 - Currently learning ReactJS.
 - Know more about me [from here](https://www.linkedin.com/in/durvesh22/)
@@ -50,7 +48,9 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </div>
- 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <div>
 
   ## 📊 &nbsp;My activities
@@ -61,6 +61,9 @@
     <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurvAcee&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 <div>
 
   ## 📫 &nbsp;Contact Me
@@ -71,9 +74,12 @@
   [![Instagram Badge](https://img.shields.io/badge/-_durvesh__22-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_durvesh__22/)&nbsp;
 
 </div>
-    
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
