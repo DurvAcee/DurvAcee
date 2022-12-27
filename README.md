@@ -7,7 +7,7 @@
 
 <div>
 
-  ## 📊 &nbsp;About Me
+  ## 🧭 &nbsp;About Me
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
@@ -23,7 +23,7 @@
 
 <div>
 
-  ## 📊 &nbsp;My Tech Stack
+  ## 🛠️ &nbsp;My Tech Stack
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
   ![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=flat&logo=react)&nbsp;
