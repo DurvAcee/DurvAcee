@@ -2,7 +2,7 @@
 🔴🟡🟢
 
 <br>
-<h1 align="center"><b>Hi , I'm Durvesh :wave:</b></h1>
+<h1 align="center"><b>Hi , I'm Durvesh :zap:</b></h1>
 </div>
 
 <div>
