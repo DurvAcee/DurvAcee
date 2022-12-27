@@ -32,8 +32,8 @@
   ![Django](https://img.shields.io/badge/-Django-0D1117?style=flat&logo=django)&nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=HTML5)&nbsp;
+  ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
