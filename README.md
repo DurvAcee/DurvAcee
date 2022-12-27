@@ -4,15 +4,11 @@
 <br>
 <h1 align="center"><b>Hi , I'm Durvesh Danve </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
 
 <br>
 
 <div>    
-  ## 🧭 &nbsp;About Me
+ 🧭 &nbsp;About Me
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -24,13 +20,13 @@
 - Personal website [link](https://www.linkedin.com/in/durvesh22/)
 
     - 𝗔𝗿𝗲𝗮𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 :- 
-    ▸ Front-end Development 
-    ▸ JavaScript, jQuery 
-    ▸ Python 
-    ▸ Java
-    ▸ AEM ( Adobe Experience Manager ) 
-    ▸ Angular 
-    ▸ PL/SQL, MySQL
+    - Front-end Development 
+    - JavaScript, jQuery 
+    - Python 
+    - Java
+    - AEM ( Adobe Experience Manager ) 
+    - Angular 
+    - PL/SQL, MySQL
 
 
 <br><br>
@@ -72,7 +68,7 @@
   ## 📫 &nbsp;My Contacts
 
  
-  [![LinkedIn Badge](https://img.shields.io/badge/-Pablo_Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durvesh22/)](https://www.linkedin.com/in/durvesh22/)&nbsp;
+  [![LinkedIn Badge](https://img.shields.io/badge/-Durvesh_Danve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durvesh22/)](https://www.linkedin.com/in/durvesh22/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-durvesh.danve@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:durvesh.danve@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-_durvesh__22-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_durvesh__22/)&nbsp;
 
