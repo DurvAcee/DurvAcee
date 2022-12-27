@@ -9,7 +9,7 @@
 
   ## 🧭 &nbsp;About Me
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = "45%"></picture>
+<picture> <img align="right" src="https://github.com/DurvAcee/DurvAcee/blob/main/iron_man.gif" width = "45%"></picture>
 <br>
 
 - Software Engineer & Tech Enthusiast!
