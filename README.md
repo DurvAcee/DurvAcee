@@ -2,7 +2,7 @@
 🔴🟡🟢
 
 <br>
-<h1 align="center"><b>Hi , I'm Durvesh Danve </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Durvesh Danve </b><img src="https://giphy.com/gifs/theoffice-episode-12-the-office-tv-D2j3xOKq0O0qQ8BOVC" width="35"></h1>
 
 
 <br>
@@ -11,13 +11,12 @@
  🧭 &nbsp;About Me
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 & 𝗧𝗲𝗰𝗵 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 
 - I Lift Weights & Binge-watch Shows on Netflix in my free time
 - Currently learning ReactJS.
-- Personal website [link](https://www.linkedin.com/in/durvesh22/)
+- Know more about me [from here](https://www.linkedin.com/in/durvesh22/)
 
     - 𝗔𝗿𝗲𝗮𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 :- 
     - Front-end Development 
@@ -28,20 +27,13 @@
     - Angular 
     - PL/SQL, MySQL
 
-
-<br><br>
+<br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
 <div>
-
-  ## 🛠️ &nbsp;My Tech Stacks
+  ## 🛠️ &nbsp;My Tech Stack
 
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -58,14 +50,20 @@
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 </div>
-
-
------
-
-<br>
+ 
 <div>
 
-  ## 📫 &nbsp;My Contacts
+  ## 📊 &nbsp;My activities
+  <a href="https://github.com/DurvAcee">
+    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=DurvAcee&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/DurvAcee">
+    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurvAcee&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+</div>
+<div>
+
+  ## 📫 &nbsp;Contact Me
 
  
   [![LinkedIn Badge](https://img.shields.io/badge/-Durvesh_Danve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durvesh22/)](https://www.linkedin.com/in/durvesh22/)&nbsp;
