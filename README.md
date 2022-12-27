@@ -9,7 +9,8 @@
 
   ## 🧭 &nbsp;About Me
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">via GIPHY</a></p>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<br>
 
 - Software Engineer & Tech Enthusiast!
 - I Lift Weights & Binge-watch Shows on Netflix in my free time
