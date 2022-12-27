@@ -6,7 +6,8 @@
 </div>
 
 <div>
-   ## 🧭 &nbsp;About Me
+
+  ## 📊 &nbsp;About Me
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <br>
@@ -15,17 +16,7 @@
 - I Lift Weights & Binge-watch Shows on Netflix in my free time
 - Currently learning ReactJS.
 - Know more about me [from here](https://www.linkedin.com/in/durvesh22/)
-
-    - 𝗔𝗿𝗲𝗮𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲 :- 
-    - Front-end Development 
-    - JavaScript, jQuery 
-    - Python 
-    - Java
-    - AEM ( Adobe Experience Manager ) 
-    - Angular 
-    - PL/SQL, MySQL
-
-<br>
+   
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
