@@ -63,6 +63,15 @@
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
 
+<div>
+
+  ## 💻 &nbsp;Repositories
+  <div width="100%" align="center">
+  <a align="left" href="https://github.com/DurvAcee/PopcornFlix" title="PopcornFlix"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=PopcornFlix&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/DurvAcee/Movie-Recommendation-System" title="Movie-Recommendation-System"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=Movie-Recommendation-System&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+</div>
+
 </div>
 
 
