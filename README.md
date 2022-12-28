@@ -9,7 +9,7 @@
 
   ## 🧭 &nbsp;About Me
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = "60%"></picture>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = "50%"></picture>
 <br>
 
 - Software Engineer & Tech Enthusiast!
