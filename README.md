@@ -13,7 +13,6 @@
 <br>
 
 - Software Engineer & Tech Enthusiast!
-- I Lift Weights & Binge-watch Shows on Netflix in my free time
 - Currently learning ReactJS.
 - Know more about me [from here](https://www.linkedin.com/in/durvesh22/)
    
@@ -35,13 +34,10 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=HTML5)&nbsp;
   ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
   ![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=flat&logo=jquery)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
-  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-0D1117?style=flat&logo=jupyter)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![Adobe Experience Manager](https://img.shields.io/badge/-Adobe%20Experience%20Manager-0D1117?style=flat&logo=adobe)&nbsp;
 
 </div>
