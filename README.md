@@ -42,9 +42,10 @@
   <a href="https://github.com/DurvAcee">
     <img width=450 height=170 align="center" alt="DurvAcee" src="https://github-readme-stats.vercel.app/api?username=DurvAcee&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
   </a>
-  <a href="https://github.com/DurvAcee">
-    <img align="center" alt="DurvAcee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurvAcee&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true"/>
-  </a>
+  
+  <a href="https://github.com/DurvAcee/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurvAcee&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+   </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
