@@ -67,7 +67,7 @@
 
   ## 💻 &nbsp;Repositories
   <div width="100%" align="center">
-    <a align="left" href="https://github.com/DurvAcee/PopcornFlix" title="PopcornFlix"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=PopcornFlix&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/DurvAcee/Face-and-Object-Detection" title="Face-and-Object-Detection"><img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=Face-and-Object-Detection&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/DurvAcee/PopcornFlix" title="PopcornFlix"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=PopcornFlix&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/DurvAcee/ReactJS_openText" title="ReactJS_openText"><img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=ReactJS_openText&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
   <br/><br/><br/><br/><br/><br/>
   </div>
