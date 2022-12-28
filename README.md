@@ -8,7 +8,7 @@
 
 <div>
 
-  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &nbsp;<b>My Tech Stack</b>
+  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> &nbsp;My Tech Stack
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
   ![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=flat&logo=react)&nbsp;
@@ -32,7 +32,7 @@
 
 <div>
 
-  ## 📊 &nbsp;My activities
+  ## 📊 &nbsp;My Activities
   <a href="https://github.com/DurvAcee">
     <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=DurvAcee&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true"/>
   </a>
