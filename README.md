@@ -32,7 +32,7 @@
 
 <div>
 
-  ## 📊 &nbsp;My Activities
+  ## 📊 &nbsp;GitHub Stats
   <a href="https://github.com/DurvAcee">
     <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=DurvAcee&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true"/>
   </a>
