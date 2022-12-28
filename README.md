@@ -2,7 +2,13 @@
 🔴🟡🟢
 
 <br>
-<h1 align="center"><b>Hi , I'm Durvesh :zap:</b></h1>
+  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Durvesh+%E2%9A%A1;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -45,7 +51,7 @@
 
 <div>
 
-  ## 📫 &nbsp;Contact Me
+  ## 📫 &nbsp;Get in Touch with me
 
  
   [![LinkedIn Badge](https://img.shields.io/badge/-Durvesh_Danve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durvesh22/)](https://www.linkedin.com/in/durvesh22/)&nbsp;
