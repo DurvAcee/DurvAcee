@@ -5,21 +5,6 @@
 <h1 align="center"><b>Hi , I'm Durvesh :zap:</b></h1>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<div>
-
-  ## 🧭 &nbsp;About Me
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = "50%"></picture>
-<br>
-
-- Software Engineer & Tech Enthusiast!
-- Currently learning ReactJS.
-- Know more about me [from here](https://www.linkedin.com/in/durvesh22/)
-   
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 
 <div>
 
