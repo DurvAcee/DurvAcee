@@ -46,6 +46,11 @@
   <a href="https://github.com/DurvAcee/github-readme-stats">
       <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurvAcee&hide=css,html&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
    </a>
+  
+   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DurvAcee&theme=react&border=61dafb&hide_border=true" alt="DurvAcee" />
+    </a>
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
