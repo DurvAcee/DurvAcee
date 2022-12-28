@@ -40,7 +40,7 @@
 
   ## 📊 &nbsp;GitHub Stats
   <a href="https://github.com/DurvAcee">
-    <img width=450 height=170 align="center" alt="DurvAcee" src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
+    <img width=450 height=170 align="center" alt="DurvAcee" src="https://github-readme-stats.vercel.app/api?username=DurvAcee&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
   </a>
   <a href="https://github.com/DurvAcee">
     <img align="center" alt="DurvAcee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurvAcee&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true"/>
