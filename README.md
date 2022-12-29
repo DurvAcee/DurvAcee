@@ -69,7 +69,7 @@
   
   ## 💻 &nbsp;Repositories
   <div width="100%" align="center">
-    <a align="left" href="https://github.com/DurvAcee/PopcornFlix" title="PopcornFlix"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=PopcornFlix&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/DurvAcee/Movie-Recommendation-System" title="Movie-Recommendation-System"><img align="right" height="140" width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=Movie-Recommendation-System&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/DurvAcee/ReactJS_openText" title="PopcornFlix"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=ReactJS_openText&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/DurvAcee/Movie-Recommendation-System" title="Movie-Recommendation-System"><img align="right" height="140" width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=Movie-Recommendation-System&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
   <br/><br/><br/><br/><br/><br/>
  
