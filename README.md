@@ -37,6 +37,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div>
+  <h3>
+    <a href="https://github.com/DurvAcee?tab=repositories" title="Show Repositories"> &nbsp;💻&nbsp;View Repositories 💻</a>
+  </h3>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ 
+<div>
 
   ## 📊 &nbsp;GitHub Stats
   <a href="https://github.com/DurvAcee">
@@ -65,7 +73,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div>
+<!-- <div>
   
   ## 💻 &nbsp;Repositories
   <div width="100%" align="center">
@@ -82,12 +90,8 @@
   </div>
   
 </div>
-</div>
+</div> -->
 
-  <div> 
-  <br/><br/><br/><br/>
-    <h4 align="center">
-    <a href="https://github.com/DurvAcee?tab=repositories" title="Show Repositories">Show More 🔍</a>
-    </h4>
-  </div>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+<!--   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
