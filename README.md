@@ -69,15 +69,15 @@
   
   ## 💻 &nbsp;Repositories
   <div width="100%" align="center">
-    <a align="left" href="https://github.com/DurvAcee/PopcornFlix" title="PopcornFlix"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=PopcornFlix&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/DurvAcee/PopcornFlix" title="PopcornFlix"><img align="right" height="140" width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=PopcornFlix&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a align="left" href="https://github.com/DurvAcee/ReactJS_openText" title="ReactJS_openText"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=ReactJS_openText&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/DurvAcee/PopcornFlix" title="PopcornFlix"><img align="right" height="140" width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=PopcornFlix&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
-  <br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/>
  
 
   <div width="100%" align="center">
     <a align="left" href="https://github.com/DurvAcee/Voice-Assistant-Friday" title="Voice-Assistant-Friday"><img align="left" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=Voice-Assistant-Friday&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/DurvAcee/PetFinder" title="PetFinder"><img align="right" height="140" width src="https://github-readme-stats.vercel.app/api/pin/?username=DurvAcee&repo=PetFinder&theme=react&border_color=61dafb&border_radius=10"></a>
   </div>
-  <br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/>
   
   </div>
   
