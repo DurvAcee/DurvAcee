@@ -30,6 +30,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
+  ![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=flat&logo=vercel)&nbsp;
   ![Adobe Experience Manager](https://img.shields.io/badge/-Adobe%20Experience%20Manager-0D1117?style=flat&logo=adobe)&nbsp;
 
 </div>
