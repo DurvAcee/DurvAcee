@@ -67,7 +67,7 @@
  
   [![LinkedIn Badge](https://img.shields.io/badge/-Durvesh_Danve-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durvesh22/)](https://www.linkedin.com/in/durvesh22/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-durvesh.danve@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:durvesh.danve@gmail.com)&nbsp;
-  [![Instagram Badge](https://img.shields.io/badge/-_durvesh__22-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_durvesh__22/)&nbsp;
+  [![Instagram Badge](https://img.shields.io/badge/-_durvesh__22-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/durvesh__22/)&nbsp;
 
   <!-- 
 <div>
